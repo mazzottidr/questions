@@ -1,0 +1,11 @@
+PASS	Basic Statistics	M132N_S1_L001_R1_001a.fastq
+PASS	Per base sequence quality	M132N_S1_L001_R1_001a.fastq
+PASS	Per sequence quality scores	M132N_S1_L001_R1_001a.fastq
+FAIL	Per base sequence content	M132N_S1_L001_R1_001a.fastq
+FAIL	Per base GC content	M132N_S1_L001_R1_001a.fastq
+FAIL	Per sequence GC content	M132N_S1_L001_R1_001a.fastq
+PASS	Per base N content	M132N_S1_L001_R1_001a.fastq
+WARN	Sequence Length Distribution	M132N_S1_L001_R1_001a.fastq
+PASS	Sequence Duplication Levels	M132N_S1_L001_R1_001a.fastq
+PASS	Overrepresented sequences	M132N_S1_L001_R1_001a.fastq
+WARN	Kmer Content	M132N_S1_L001_R1_001a.fastq
